@@ -95,6 +95,10 @@ class ListFragment : Fragment() {
                 importLauncher.launch(arrayOf("application/json"))
                 true
             }
+            R.id.menu_exit -> {
+                requireActivity().finish()
+                true
+            }
             else -> super.onOptionsItemSelected(item)
         }
     }
