@@ -38,6 +38,12 @@ class TermViewModel(application: Application): AndroidViewModel(application) {
         }
     }
 
+    fun addTerms(terms: List<Term>) {
+        viewModelScope.launch(Dispatchers.IO) {
+            repository.addTerm(*terms.toTypedArray())
+        }
+    }
+
     fun updateTerm(term: Term){
         viewModelScope.launch(Dispatchers.IO) {
             repository.updateTerm(term)

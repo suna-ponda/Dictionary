@@ -6,8 +6,8 @@ import tr.com.ponda.gftb.model.Term
 
 class TermRepository(private val termDao: TermDao) {
     val readAllData: LiveData<List<Term>> = termDao.readAllData()
-    suspend fun addTerm(term: Term){
-        termDao.addTerm(term)
+    suspend fun addTerm(vararg terms: Term){
+        termDao.addTerm(*terms)
     }
 
     suspend fun updateTerm(term: Term){
