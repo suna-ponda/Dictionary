@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">GftB</string>
+    <string name="app_name_long">Glossary for the Bryzoa</string>
+    <string name="term">Terim</string>
+    <string name="definition">Tanım</string>
+    <string name="citation">Kaynak</string>
+    <string name="figures">Grafikler</string>
+    <string name="button">Ekle</string>
+    <string name="list">Liste</string>
+    <string name="add">Ekle</string>
+    <string name="update">Güncelle</string>
+    <string name="view">Görüntüle</string>
+    <string name="edit">Düzenle</string>
+    <string name="delete">Sil</string>
+    <string name="added_successfully">Kayıt Eklendi</string>
+    <string name="updated_successfully">Kayıt Güncellendi</string>
+    <string name="fill_all_fields">Lütfen tüm alanları doldurunuz</string>
+    <string name="yes">Evet</string>
+    <string name="no">Hayır</string>
+    <string name="cancel">İptal</string>
+    <string name="deleted_successfully">Kayıt silindi</string>
+    <string name="delete_question">Bu kaydı silmek istediğinize emin misiniz?</string>
+    <string name="search">Ara</string>
+    <string name="share">Paylaş</string>
+    <string name="share_database">Veritabanı paylaş</string>
+    <string name="link">Bağlanıtlar</string>
+    <string name="comma_seperated">Maddeleri ayırmak için "," kullanınız</string>
+    <string name="line_seperated">Maddeleri ayırmak için "-" kullanınız</string>
+    <string name="new_term">Yeni Terim</string>
+    <string name="get">Getir</string>
+    <string name="new_search">Aranacak terim</string>
+    <string name="not_found">Veri Bulunamadı</string>
+    <string name="term_not_found">Kayıt bulunamadı</string>
+
+</resources>

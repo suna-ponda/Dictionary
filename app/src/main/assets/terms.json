@@ -1,0 +1,1938 @@
+[
+  {
+    "id": 0,
+    "term": "acanthopore",
+    "definition": "See style",
+    "citation": "",
+    "links": "style",
+    "figures": ""
+  },
+  {
+    "id": 0,
+    "term": "acanthostyle",
+    "definition": "IIn cryptostomes, a type of stylet with a core which is a well-defined smooth rod of non-laminated calcite. Sheath lamellae usually strongly directed toward colony surface, sheath lamellar bundle wide. Transitional to paurostyle, but usually larger. (Blake 1983)",
+    "citation": "Blake 1983",
+    "links": "stylet, paurostyle,",
+    "figures": ""
+  },
+  {
+    "id": 0,
+    "term": "acleithral ooecium",
+    "definition": "An ooecium which is not closed by the operculum of the maternal zooid. (After Hayward & Ryland, 1979)",
+    "citation": "After Hayward & Ryland, 1979",
+    "links": "ooecium, operculum, maternal zooid",
+    "figures": ""
+  },
+  {
+    "id": 0,
+    "term": "adeoniform",
+    "definition": "A colony form of erect bilaminar branches, as in Adeonellopsis (not normal in Adeona).",
+    "citation": "",
+    "links": "colony form",
+    "figures": "Adeonellopsis"
+  },
+  {
+    "id": 0,
+    "term": "adnate",
+    "definition": "Encrusting, closely cemented to the substrate (Pitt & Taylor, 1991).",
+    "citation": "Pitt & Taylor, 1991",
+    "links": "",
+    "figures": ""
+  },
+  {
+    "id": 0,
+    "term": "adventitious avicularium",
+    "definition": "An avicularium derived from one or more marginal frontal septular pores and positioned on the surface of a zooid (See interzooidal avicularium)",
+    "citation": "",
+    "links": "avicularium, septular pores, interzooidal avicularium",
+    "figures": ""
+  },
+  {
+    "id": 0,
+    "term": "aktinotostyle",
+    "definition": "In cryptostomes, a type of stylet with a core formed by a broad band of arched lamellae that are medially arched toward colony surface, laterally deflected to form spines. Contains scattered non-laminated granules, and rarely a continuous non-laminated rod in the core. (Blake 1983)",
+    "citation": "Blake 1983",
+    "links": "stylet",
+    "figures": ""
+  },
+  {
+    "id": 0,
+    "term": "alveoli",
+    "definition": "Apparent interzooidal spaces between the autozooecia in rectangulate cyclostomes which are enclosed by interior wall calcification (Pitt & Taylor, 1991).",
+    "citation": "Pitt & Taylor, 1991",
+    "links": "interior wall ",
+    "figures": "Disporella"
+  },
+  {
+    "id": 0,
+    "term": "ancestrula, ancestrular zooid",
+    "definition": "TThe initial zooid of the colony, formed by metamorphosis of a larva, or by a binary complex of a feeding zooid and a rhizoid. In some groups, the ancestrular zooids may be twinned, triple, or even a group of six",
+    "citation": "",
+    "links": "zooid, hizoid",
+    "figures": "Helixotionella"
+  },
+  {
+    "id": 0,
+    "term": "annulus",
+    "definition": "TThe thickened edge of the intercalary cuticle where it is perforated by a lateral septular pore. (Banta 1969)",
+    "citation": "Banta 1969",
+    "links": "",
+    "figures": ""
+  },
+  {
+    "id": 0,
+    "term": "anter",
+    "definition": "Part of the orifice distal to the condyles in ascophoran Cheilostomata. (Hayward & Ryland, 1979) (Cf poster ). The distinction of the anter as referring the distal part of the operculum is no longer used.",
+    "citation": "Hayward & Ryland, 1979",
+    "links": "orifice, condyles, poster, operculum",
+    "figures": ""
+  },
+  {
+    "id": 0,
+    "term": "apertural bar",
+    "definition": "Fused pair of costae immediately proximal to the orifice in cribrimorph cheilostomes. (Hayward & Ryland, 1979)",
+    "citation": "Hayward & Ryland, 1979",
+    "links": "",
+    "figures": "Corbulipora"
+  },
+  {
+    "id": 0,
+    "term": "aperture",
+    "definition": "In stenolaemates, terminal skeletal opening of the autozooid. (Boardman & Cheetham, 1983)\nIn ascophorans, an opening in the frontal wall not necessarily coterminous with the orifice. (Hayward & Ryland, 1979) (used rarely)",
+    "citation": "Boardman & Cheetham, 1983 - Hayward & Ryland, 1979",
+    "links": "orifice",
+    "figures": ""
+  },
+  {
+    "id": 0,
+    "term": "area",
+    "definition": "Space occupied by the frontal membrane, in life, in the anascan cheilostomes. (Hayward & Ryland, 1979). Compare opesia.",
+    "citation": "Hayward & Ryland, 1979",
+    "links": "frontal membrane, opesia",
+    "figures": ""
+  },
+  {
+    "id": 0,
+    "term": "areola",
+    "definition": "In ascophoran cheilostomatates, a marginal opening in the frontal calcification leading to an areolar pore.",
+    "citation": "",
+    "links": "",
+    "figures": ""
+  },
+  {
+    "id": 0,
+    "term": "areolar pore",
+    "definition": "Marginal pore in the frontal wall of some Cheilostomata (Hayward & Ryland, 1979). This is a communication pore between the coelomic tissue on the basal side of the calcified wall (perigastric coelom) and the hypostegal coelomic tissue on the frontal side of the wall. Often called a marginal septular pore (or septula/um).",
+    "citation": "Hayward & Ryland, 1979",
+    "links": "frontal wall, communication pore, hypostegal coelomic ",
+    "figures": "Pleurocodonellina, Parkermavella, Bulbipora"
+  },
+  {
+    "id": 0,
+    "term": "ascophoran",
+    "definition": "Cheilostomate in which autozooids have hydrostatic system including ascus beneath continuous protective frontal shield developed as cryptocyst, gymnocyst, or umbonuloid shield (Boardman & Cheetham, 1983).",
+    "citation": "Boardman & Cheetham, 1983",
+    "links": "autozooids, ascus",
+    "figures": ""
+  },
+  {
+    "id": 0,
+    "term": "ascopore",
+    "definition": "Median frontal pore which serves as the inlet to the ascus in some ascophoran Cheilostomata (Hayward & Ryland, 1979). An ascopore is prximal to the operculum. Compare spiramen.",
+    "citation": "Hayward & Ryland, 1979",
+    "links": "spiramen",
+    "figures": "Calloporina, Calwellia"
+  },
+  {
+    "id": 0,
+    "term": "ascus",
+    "definition": "Exterior-walled, flexible-floored sac beneath frontal shield of autozooid in ascophoran cheilostomes; encloses water-filled chamber opening at or near orifice to function in hydrostatic system; derived by infolding of part of frontal wall beneath gymnocyst or cryptocyst, or by overarching of frontal wall by umbonuloid shield and associated structures (Boardman & Cheetham, 1983). (Syn. compensation space)",
+    "citation": "Boardman & Cheetham, 1983",
+    "links": "",
+    "figures": ""
+  },
+  {
+    "id": 0,
+    "term": "astogenetic change",
+    "definition": "The progressive elaboration of zooidal morphology from the ancestrula through the first few generations of autozooids budded from it (Hayward & Ryland, 1979).",
+    "citation": "Hayward & Ryland, 1979",
+    "links": "",
+    "figures": ""
+  },
+  {
+    "id": 0,
+    "term": "astogeny",
+    "definition": "Course of development of sequence of asexual generations of zooids and any extrazooidal parts which together form colony (Boardman & Cheetham, 1983).The process of colony growth by budding, from the initial settlement of the larva.",
+    "citation": "Boardman & Cheetham, 1983",
+    "links": "zooid",
+    "figures": ""
+  },
+  {
+    "id": 0,
+    "term": "atrial sphincter",
+    "definition": "In ctenostomes; muscle sealing the proximal end of the atrium immediately below the collar, in a retracted zooid (Hayward, 1985). In stenolaemates, the muscle marks the lower limit of the vestibule and the upper limit of the atrium.",
+    "citation": "Hayward, 1985",
+    "links": "collar",
+    "figures": ""
+  },
+  {
+    "id": 0,
+    "term": "atrium",
+    "definition": "In ctenostomes; space between the tips of the tentacles and the orifice, in a retracted zooid (Hayward, 1985).\n In stenolaemates, space between tips of the tentacles (when withdrawn) and the orifice of the autozooid, sealed distally and proximally by sphincter muscles (Hayward & Ryland, 1985; but see Boardman, 1998).",
+    "citation": "Hayward, 1985 - Hayward & Ryland, 1985; but see Boardman, 1998",
+    "links": "",
+    "figures": ""
+  },
+  {
+    "id": 0,
+    "term": "autozooecium",
+    "definition": "The skeleton of an autozooid (Pitt & Taylor, 1991).",
+    "citation": "Pitt & Taylor, 1991",
+    "links": "",
+    "figures": ""
+  },
+  {
+    "id": 0,
+    "term": "autozooid",
+    "definition": "Feeding zooid in Bryozoa (Hayward & Ryland, 1979).\n(a) Zooid having at some stages of ontogeny protrusible lophophore, with or without feeding ability (Boardman & Cheetham, 1983).\n Usual, common zooid containing feeding organs in colony; capable of carrying out all life functions in monomorphic colony (Boardman & Cheetham, 1983).",
+    "citation": "Hayward & Ryland, 1979 - Boardman & Cheetham, 1983",
+    "links": "zooid",
+    "figures": ""
+  },
+  {
+    "id": 0,
+    "term": "avicularium",
+    "definition": "Specialised zooid in the Cheilostomata with reduced polypide but strong muscles which operate a modified operculum (mandible). (after Ryland & Hayward, 1977)\nSome types of avicularia include adventitious, interzooidal, pedunculate, vicarious.",
+    "citation": "",
+    "links": "zooid, polypide, operculum, adventitious, interzooidal, pedunculate, vicarious",
+    "figures": "Hiantopora, Smittina, Porina, Celleporaria, Opaeophora"
+  },
+  {
+    "id": 0,
+    "term": "bar, pivotal bar",
+    "definition": "Calcified hinge for the articulation of the avicularian mandible.",
+    "citation": "",
+    "links": "mandible",
+    "figures": ""
+  },
+  {
+    "id": 0,
+    "term": "basal",
+    "definition": "Underside of an encrusting or freely growing colony (Ryland & Hayward, 1977). The basal wall of a zooid is opposite to the frontal wall.",
+    "citation": "Ryland & Hayward, 1977",
+    "links": "",
+    "figures": ""
+  },
+  {
+    "id": 0,
+    "term": "bifurcation type",
+    "definition": "In 'cellularine' cheilostomes (mainly bugulids and candids), a number of different arrangements leading to a branch bifurcation were described by Harmer (1923).",
+    "citation": "Harmer, 1923, These notes are available: Harmer, S.F., 1923. - On Cellularine and other Polyzoa. Extracted notes on bifurcation types.",
+    "links": "",
+    "figures": ""
+  },
+  {
+    "id": 0,
+    "term": "biglobulus",
+    "definition": "In catenicellid cheilostomes, an internode consisting of two autozooids (Harmer, 1957).",
+    "citation": "Harmer, 1957",
+    "links": "internode",
+    "figures": ""
+  },
+  {
+    "id": 0,
+    "term": "brood chamber",
+    "definition": "Any chamber for the brooding of larvae; includes cyclostome gynozooids and so-called zoarial brood chambers, and cheilostome ovicells (Pitt & Taylor, 1991). (In the definition of Boardman & Cheetham (1983), the brood chamber in gymnolaemates is 'topologically outside the body cavity of the colony', excluding zooidal brooding in genera such as Adeonellopsis or Lunularia)",
+    "citation": "Pitt & Taylor, 1991 - Boardman & Cheetham, 1983",
+    "links": "gynozooids, ovicells",
+    "figures": "Adeonellopsis, Lunularia"
+  },
+  {
+    "id": 0,
+    "term": "brown body",
+    "definition": "Coloured spheroid in bryozoan zooid resulting from aggregation of non-histolysable residue of a degenerated polypide (Ryland & Hayward, 1977).",
+    "citation": "Ryland & Hayward, 1977",
+    "links": "",
+    "figures": ""
+  },
+  {
+    "id": 0,
+    "term": "cancellus (pl. cancelli)",
+    "definition": "In lichenoporid cyclostomes, a calcified tube, which may be a kenozooid or extrazooidal. The autozooids are enclosed by a large number of cancelli at the surface of the colony. Small spines, often with hooks, are present on the interior of the cancellus wall. Secondary calcification may form horizontal laminae closing the cancelli.\n\nIn conescharellinid cheilostomes, cancelli are kenozooids derived from marginal septular pores on the antapical surface of the colony. These only develop fully in a mature colony.",
+    "citation": "",
+    "links": "",
+    "figures": "Disporella,"
+  },
+  {
+    "id": 0,
+    "term": "cardella (or cardelle)",
+    "definition": "See condyle",
+    "citation": "",
+    "links": "condyle",
+    "figures": ""
+  },
+  {
+    "id": 0,
+    "term": "cauda",
+    "definition": "Thread-like proximal portion of a club-like autozooid (Ryland & Hayward, 1977).",
+    "citation": "Ryland & Hayward, 1977",
+    "links": "",
+    "figures": "Hippothoa"
+  },
+  {
+    "id": 0,
+    "term": "chamber",
+    "definition": "In catenicellid cheilostomes, the kenozooids or avicularia making up the lateral process (after Harmer, 1957). Syn. compartment. The three named types are: suprascapular, scapular, infrascapular.",
+    "citation": "after Harmer, 1957",
+    "links": "lateral process, suprascapular, scapular, infrascapular",
+    "figures": ""
+  },
+  {
+    "id": 0,
+    "term": "ciliated groove",
+    "definition": "The groove on the lower surface of a larva which enables it to grip the substratum when settling (Hayward & Ryland, 1979).",
+    "citation": "Hayward & Ryland, 1979",
+    "links": "",
+    "figures": ""
+  },
+  {
+    "id": 0,
+    "term": "cleithral ooecium",
+    "definition": "One closed by the operculum of the parent or maternal zooid (after Hayward & Ryland, 1979).",
+    "citation": "after Hayward & Ryland, 1979",
+    "links": "",
+    "figures": "Antarctothoa"
+  },
+  {
+    "id": 0,
+    "term": "coelomopore",
+    "definition": "A pore in the body wall connecting the coelom with the exterior. Applied specifically to the pore through which ova are extruded, at the base of the most distal pair of tentacles (syn. supraneural pore) (after Hayward & Ryland, 1979).",
+    "citation": "after Hayward & Ryland, 1979",
+    "links": "",
+    "figures": ""
+  },
+  {
+    "id": 0,
+    "term": "collar",
+    "definition": "Stiffened membrane, often setose, encircling the base of the expanded lophophore in ctenostome zooids (Hayward, 1985).",
+    "citation": "Hayward, 1985)",
+    "links": "",
+    "figures": ""
+  },
+  {
+    "id": 0,
+    "term": "colony",
+    "definition": "A bryozoan clonal structure composed of all units budded asexually from one larva.",
+    "citation": "",
+    "links": "",
+    "figures": ""
+  },
+  {
+    "id": 0,
+    "term": "colony form",
+    "definition": "General shape and habit of a bryozoan colony. A variety of names have been coined from generic names for the most common forms. Examples include adeoniform, membraniporiform, lunulitiform, celleporiform, cellariform, flustriform, eschariform, reteporiform, petraliform, vinculariform, catenicelliform, crisiiform, tubuliporiform, idmoneiform, lichenoporiform. See Stach, 1936.",
+    "citation": "",
+    "links": "adeoniform, petraliform",
+    "figures": ""
+  },
+  {
+    "id": 0,
+    "term": "communication pore",
+    "definition": "Opening in interzooidal wall (Ryland & Hayward, 1979). In stenolaemates, communication between zooids is direct; in gymnolaemates, the pore is plugged with a cluster of specialised cells connecting the funicular system of the adjacent zooids. Several pores may be grouped in a pore plate, or connect with a dietella. See also septulum, rosette plate.",
+    "citation": "Ryland & Hayward, 1979",
+    "links": "funicular, pore plate, dietella, septulum, rosette plate ",
+    "figures": ""
+  },
+  {
+    "id": 0,
+    "term": "compensation space",
+    "definition": "See ascus. (Also compensation sac, compensatrix).",
+    "citation": "",
+    "links": "ascus",
+    "figures": ""
+  },
+  {
+    "id": 0,
+    "term": "compartment",
+    "definition": "See chamber.",
+    "citation": "",
+    "links": "chamber",
+    "figures": ""
+  },
+  {
+    "id": 0,
+    "term": "condyle",
+    "definition": "One of a pair of oppositely placed protuberances on which the operculum pivots in some ascophoran cheilostomes (Hayward & Ryland, 1979). One view is that the condyles are situated beneath the operculum; whereas some similar features located above the operculum are extraopercular teeth (or lateral denticles - Tilbrook & Cook 2004). Cardellae or marginal denticles are other partial synonyms.",
+    "citation": "Hayward & Ryland, 1979 - Tilbrook & Cook 2004",
+    "links": "operculum, lateral denticles",
+    "figures": "Emballotheca, Hippoporina, Characodoma"
+  },
+  {
+    "id": 0,
+    "term": "cormidial orifice",
+    "definition": "In cheilostomes, skeletal support for zooidal orifice which is the joint product of more than one zooid.",
+    "citation": "",
+    "links": "",
+    "figures": "Quadriscutella"
+  },
+  {
+    "id": 0,
+    "term": "costa",
+    "definition": "One of the modified spines overarching the frontal membrane in cribrimorph cheilostomes; usually united with the neighbouring costae to form a frontal (costate) shield (Hayward & Ryland, 1979).",
+    "citation": "Hayward & Ryland, 1979",
+    "links": "",
+    "figures": "Corbulipora"
+  },
+  {
+    "id": 0,
+    "term": "costate shield (=costal shield)",
+    "definition": "The frontal wall in cribrimorph cheilostomes; formed from series of fused spines, or costae (Hayward & Ryland, 1979). Some other families of cheilostomes have reduced costal shields.",
+    "citation": "Hayward & Ryland, 1979",
+    "links": "",
+    "figures": "Corbulipora, Diagram by Lang"
+  },
+  {
+    "id": 0,
+    "term": "cribriomorph",
+    "definition": "The group of cheilostomes, or the type of frontal shield, in which the calcified frontal wall includes a series of fused (or partly fused) spines arching over the frontal membrane and operculum. The diagram by Lang includes terms used for some of the parts of a cribriomorph frontal, but several of these terms are obsolete.",
+    "citation": "",
+    "links": "frontal shield",
+    "figures": "Corbulipora, The diagram by Lang"
+  },
+  {
+    "id": 0,
+    "term": "cryptocyst",
+    "definition": "In some anascan cheilostomes, more or less horizontal calcareous lamina on the basal side of the frontal membrane, developed from the vertical walls of the zooid but not completely dividing its body cavity (Hayward & Ryland, 1979). \n\nHowever, the term is applied to the frontal shield in those ascophoran cheilostomes where the frontal shield is formed by calcification of an interior wall beneath (basal to) the hypostegal coelom, and over the ascus (i.e., not an umbonuloid wall).",
+    "citation": "Hayward & Ryland, 1979",
+    "links": "frontal shield, hypostegal coelom, umbonuloid",
+    "figures": "Selenaria, Caleschara, Steginoporella, Opaeophora"
+  },
+  {
+    "id": 0,
+    "term": "cryptocystidean",
+    "definition": "In ascophoran cheilostomes, the development of a frontal wall as an interior partition below a hypostegal coelom (after Hayward & Ryland, 1979). See lepralioid . The term also includes anascans with a frontal cryptocyst formed by calcification of an internal partition.",
+    "citation": "after Hayward & Ryland, 1979",
+    "links": "Frontal wall, hypostegal coelom, lepralioid",
+    "figures": "Emballotheca, Schizoporella"
+  },
+  {
+    "id": 0,
+    "term": "cuticle",
+    "definition": "Noncellular organic outer layer of body wall secreted by columnar epithelium of bud; composed of mucopolysaccharides in glycoproteinic frame, hardened by a tanning process (Boardman & Cheetham, 1983). (Not 'chitinous')",
+    "citation": "Boardman & Cheetham, 1983",
+    "links": "",
+    "figures": ""
+  },
+  {
+    "id": 0,
+    "term": "cyclozooecium",
+    "definition": "In some fenestrid stenolaemates, a small hemispherical polymorph of unknown function, normally located at branch junctions, opening on the basal surface.",
+    "citation": "",
+    "links": "",
+    "figures": ""
+  },
+  {
+    "id": 0,
+    "term": "cyphonautes",
+    "definition": "Pelagic bivalved larva of some bryozoans (Hayward & Ryland, 1979).",
+    "citation": "Hayward & Ryland, 1979",
+    "links": "",
+    "figures": ""
+  },
+  {
+    "id": 0,
+    "term": "cystid",
+    "definition": "Cellular plus skeletal layers of the body wall (Hayward & Ryland, 1979).",
+    "citation": "Hayward & Ryland, 1979",
+    "links": "",
+    "figures": ""
+  },
+  {
+    "id": 0,
+    "term": "cystiphragm",
+    "definition": "In stenolaemates, lateral skeletal partition extending from zooecial wall into chamber and curved inward to form cyst or collar that extends partly or entirely around zooidal chamber (Boardman & Cheetham, 1983).",
+    "citation": "Boardman & Cheetham, 1983",
+    "links": "",
+    "figures": ""
+  },
+  {
+    "id": 0,
+    "term": "daughter zooecium",
+    "definition": "In catenicellid cheilostomes, the distal member(s) of a biglobulus (or triglobulus) (after Harmer, 1957) (Not related to reproduction!).",
+    "citation": "after Harmer, 1957",
+    "links": "biglobulus",
+    "figures": ""
+  },
+  {
+    "id": 0,
+    "term": "dependent ooecium",
+    "definition": "One which develops resting on the distal zooid (Ryland & Hayward, 1977).",
+    "citation": "Ryland & Hayward, 1977",
+    "links": "",
+    "figures": "Cyclicopora, Lacerna"
+  },
+  {
+    "id": 0,
+    "term": "diaphragm",
+    "definition": "In stenolaemates, membranous or skeletal partition that extends transversely across entire zooidal chamber (Boardman & Cheetham, 1983).",
+    "citation": "Boardman & Cheetham, 1983",
+    "links": "",
+    "figures": ""
+  },
+  {
+    "id": 0,
+    "term": "dietella",
+    "definition": "In cheilostomes, small chamber on the base of a vertical wall between two zooids, with communication pores extending to the adjoining zooids. Some may have uncalcified windows in the frontal wall.",
+    "citation": "",
+    "links": "communication pores",
+    "figures": ""
+  },
+  {
+    "id": 0,
+    "term": "dilator muscles",
+    "definition": "In cyclostomes, longitudinal muscles at the distal end of the autozooid which contract to depress the terminal membrane, and thus open the orifice of the zooid (Hayward & Ryland, 1985).",
+    "citation": "Hayward & Ryland, 1985",
+    "links": "",
+    "figures": ""
+  },
+  {
+    "id": 0,
+    "term": "dissepiment",
+    "definition": "Crossbar connecting branches in a fenestrate colony; generally lacking zooidal apertures.",
+    "citation": "",
+    "links": "",
+    "figures": ""
+  },
+  {
+    "id": 0,
+    "term": "distal",
+    "definition": "Pertaining to the side away from the ancestrula or origin of growth (Ryland & Hayward, 1977).",
+    "citation": "Ryland & Hayward, 1977)",
+    "links": "",
+    "figures": ""
+  },
+  {
+    "id": 0,
+    "term": "divaricator muscles",
+    "definition": "Muscles employed in opening the operculum. (Hayward & Ryland, 1998)",
+    "citation": "Hayward & Ryland, 1998",
+    "links": "",
+    "figures": ""
+  },
+  {
+    "id": 0,
+    "term": "double-walled",
+    "definition": "See free-walled colony.",
+    "citation": "",
+    "links": "free-walled colony",
+    "figures": ""
+  },
+  {
+    "id": 0,
+    "term": "ectooecium",
+    "definition": "Outer, generally calcified layer of ooecial wall, (Hayward & Ryland, 1998)",
+    "citation": "Hayward & Ryland, 1998",
+    "links": "ooecial wall",
+    "figures": ""
+  },
+  {
+    "id": 0,
+    "term": "eleozooid",
+    "definition": "In 'melicerititid' cyclostomes (Family Eleidae), a zooid polymorph analogous to avicularia in cheilostomes. Three types of eleozooids are termed rostrozooids, trifoliozooids and demizooids. A colony often has more than one type of eleozooid, which may be smaller or larger than the autozooids (See Taylor 1994)",
+    "citation": "Taylor 1994",
+    "links": "Family Eleidae, avicularia",
+    "figures": ""
+  },
+  {
+    "id": 0,
+    "term": "endooecium",
+    "definition": "Inner, often membranous layer of ooecial wall (= entooecium). (Hayward & Ryland, 1998)",
+    "citation": "Hayward & Ryland, 1998",
+    "links": "ooecial wall",
+    "figures": ""
+  },
+  {
+    "id": 0,
+    "term": "endotoichal ooecium",
+    "definition": "One which appears immersed in the distal zooid, while opening independently to the exterior. (Hayward & Ryland, 1998)",
+    "citation": "Hayward & Ryland, 1998",
+    "links": "",
+    "figures": "Melicerita"
+  },
+  {
+    "id": 0,
+    "term": "endozone",
+    "definition": "The inner zone of a massive or erect stenolaemate colony, composed of the thin-walled proximal parts of the zooecia typically oriented subparallel to the branch growth direction (Pitt & Taylor, 1991).",
+    "citation": "Pitt & Taylor, 1991",
+    "links": "",
+    "figures": ""
+  },
+  {
+    "id": 0,
+    "term": "endozooidal ooecium",
+    "definition": "One which appears immersed in the distal zooid, while opening below the operculum of the parent zooid (syn entozooecial oecium). (Hayward & Ryland, 1998)",
+    "citation": "Hayward & Ryland, 1998",
+    "links": "",
+    "figures": "Hincksinoflustra"
+  },
+  {
+    "id": 0,
+    "term": "entooecium",
+    "definition": "Inner, often membranous layer of ooecial wall (= endooecium). (Hayward & Ryland, 1998)",
+    "citation": "Hayward & Ryland, 1998",
+    "links": "ooecial wall",
+    "figures": ""
+  },
+  {
+    "id": 0,
+    "term": "entosaccal cavity",
+    "definition": "In stenolaemates, that part of the zooidal body cavity within membranous sac (Boardman & Cheetham, 1983).",
+    "citation": "Boardman & Cheetham, 1983",
+    "links": "membranous sac",
+    "figures": ""
+  },
+  {
+    "id": 0,
+    "term": "epistege",
+    "definition": "In Cribrilinidae (and some umbonuloids), the space between the frontal membrane and the overlying frontal shield (syn. epistegal space). (Hayward & Ryland, 1998)",
+    "citation": "Hayward & Ryland, 1998",
+    "links": "",
+    "figures": ""
+  },
+  {
+    "id": 0,
+    "term": "epitheca",
+    "definition": "The cuticular exterior layer of the frontal wall in cheilostomes.",
+    "citation": "",
+    "links": "",
+    "figures": ""
+  },
+  {
+    "id": 0,
+    "term": "exilazooecium",
+    "definition": "In stenolaemates, generally small polymorph originating in outer endozone or exozone between feeding zooids with few or no basal diaphragms so that living chamber space is available for possible organs (Boardman & Cheetham, 1983).",
+    "citation": "Boardman & Cheetham, 1983",
+    "links": "",
+    "figures": ""
+  },
+  {
+    "id": 0,
+    "term": "exosaccal cavity",
+    "definition": "In stenolaemates, that part of the zooidal body cavity within membranous sac (Boardman & Cheetham, 1983).",
+    "citation": "Boardman & Cheetham, 1983",
+    "links": "membranous sac",
+    "figures": ""
+  },
+  {
+    "id": 0,
+    "term": "exozone",
+    "definition": "The outer zone of a massive or erect stenolaemate colony, composed of the thick-walled distal parts of the zooecia typically oriented subperpendicular to the branch growth direction (Pitt & Taylor, 1991).",
+    "citation": "Pitt & Taylor, 1991",
+    "links": "",
+    "figures": ""
+  },
+  {
+    "id": 0,
+    "term": "exterior wall",
+    "definition": "The outer body wall of the autozooid, including the cuticle and adjacent epithelium and calcified structures. (Hayward & Ryland, 1985) \nBody wall that extends body of zooid and of colony; includes outermost cuticular or gelatinous layer. (Boardman & Cheetham, 1983)",
+    "citation": "Hayward & Ryland, 1985 - Boardman & Cheetham, 1983",
+    "links": "cuticle",
+    "figures": ""
+  },
+  {
+    "id": 0,
+    "term": "extrazooidal",
+    "definition": "Structures arising from, or shared by, more than a single zooid (Ryland & Hayward, 1979). In phylactolaemates, the exterior colony wall and adjacent body cavity within which the zooidal polypides are contained. In cheilostomes, extrazooidal calcification may form an important part of the supportive structure of a colony.",
+    "citation": "Ryland & Hayward, 1979",
+    "links": "",
+    "figures": ""
+  },
+  {
+    "id": 0,
+    "term": "fascicle",
+    "definition": "A bundle of autozooecial apertures (Pitt & Taylor, 1991).",
+    "citation": "Pitt & Taylor, 1991)",
+    "links": "apertures",
+    "figures": "Liripora"
+  },
+  {
+    "id": 0,
+    "term": "fenestra",
+    "definition": "In cheilostomate ovicells, an uncalcified area in the ectooecium through which the endooecium is displayed (after Ryland & Hayward, 1977) (Cf. tabula). Also used for an uncalcified opening in the frontal wall with direct communication from the external environment to the space between the calcified frontal wall and the frontal membrane. In earlier papers, fenestra may be used in the sense of fenestrula. Compare window.",
+    "citation": "after Ryland & Hayward, 1977",
+    "links": "ectooecium, endooecium, tabula, fenestrula, window",
+    "figures": ""
+  },
+  {
+    "id": 0,
+    "term": "fenestrate",
+    "definition": "A colony which is composed of a net-like or lacey framework of skeletal calcification, as in Fenestella or in many phidoloporid cheilostomes (syn.: reticulate).",
+    "citation": "",
+    "links": "reticulate",
+    "figures": "Triphyllozoon, Hornera foliacea"
+  },
+  {
+    "id": 0,
+    "term": "fenestrula",
+    "definition": "Open space in reticulate colony (eg. in Reteporella , Fenestella) (Ryland & Hayward, 1977).",
+    "citation": "Ryland & Hayward, 1977)",
+    "links": "",
+    "figures": "Triphyllozoon"
+  },
+  {
+    "id": 0,
+    "term": "fixed-wall colony",
+    "definition": "In stenolaemates, colony that in which orificial walls of feeding zooids are fixed directly to apertures so that confluent outer body cavities are eliminated (Boardman & Cheetham, 1983).",
+    "citation": "Boardman & Cheetham, 1983",
+    "links": "",
+    "figures": "Tubulipora, Plagioecia"
+  },
+  {
+    "id": 0,
+    "term": "floatoblast",
+    "definition": "Statoblast with peripheral pneumatic annulus, having or lacking marginal hooks (Boardman & Cheetham, 1983).",
+    "citation": "Boardman & Cheetham, 1983",
+    "links": "Statoblast",
+    "figures": ""
+  },
+  {
+    "id": 0,
+    "term": "foramen",
+    "definition": "In cheilostomes, an uncalcified opening in the frontal wall with direct communication from the external environment to the space between the calcified frontal wall and the frontal membrane. Compare window.",
+    "citation": "",
+    "links": "window",
+    "figures": ""
+  },
+  {
+    "id": 0,
+    "term": "free-walled colony",
+    "definition": "In stenolaemates, colony that is loosely covered by membranous exterior walls, not attached at apertures of feeding zooids, so that there is an outer confluent body cavity connecting the zooids (after Boardman & Cheetham, 1983).",
+    "citation": "after Boardman & Cheetham, 1983",
+    "links": "",
+    "figures": "Densipora, Disporella"
+  },
+  {
+    "id": 0,
+    "term": "frontal",
+    "definition": "Pertaining to the exposed or orifice-bearing side of a zooid or colony (Ryland & Hayward, 1977).",
+    "citation": "Ryland & Hayward, 1977",
+    "links": "",
+    "figures": ""
+  },
+  {
+    "id": 0,
+    "term": "frontal budding",
+    "definition": "In gymnolaemates, budding of zooids from frontal wall (or associated structure) to produce autozoozooids in some multilaminate or free-living colonies; or to produce adventitious polymorphs in many kinds of colonies (Modified after Boardman & Cheetham, 1983)",
+    "citation": "Modified after Boardman & Cheetham, 1983)",
+    "links": "",
+    "figures": ""
+  },
+  {
+    "id": 0,
+    "term": "frontal membrane",
+    "definition": "Uncalcified part of frontal body wall in Cheilostomata; may be exposed or covered by spines (in anascans) or a frontal shield (in some ascophorans) (Hayward & Ryland, 1979).",
+    "citation": "Hayward & Ryland, 1979",
+    "links": "",
+    "figures": ""
+  },
+  {
+    "id": 0,
+    "term": "frontal shield",
+    "definition": "The calcified frontal surface of ascophoran zooids, not necessarily homologous in all groups; coextensive with the outer body wall; formed as a partition below it, from the fusion of overarched spines or by the calcification of a proximally-derived fold (Ryland & Hayward, 1979). There are four principal types of frontal shield: cribriomorph, gymnocystidean, umbonuloid, and cryptocystidean (lepralioid).",
+    "citation": "",
+    "links": "cribriomorph, gymnocystidean, umbonuloid, cryptocystidean",
+    "figures": "Corbulipora, Chorizopora, Escharoides, Adeonellopsis, Smittina"
+  },
+  {
+    "id": 0,
+    "term": "frontal wall",
+    "definition": "A calcareous frontal body wall (covering the ascus in ascophoran cheilostomes) (Hayward & Ryland, 1979). This reference also described the frontal wall as including the exterior cuticle, and any associated epidermis. The frontal membrane can be included in the consideration of the entire structure.",
+    "citation": "Hayward & Ryland, 1979",
+    "links": "frontal, cuticle",
+    "figures": ""
+  },
+  {
+    "id": 0,
+    "term": "funiculus",
+    "definition": "In gymnolaemates, mesenchymatous strands connecting the polypide with the zooidal wall (actually with the communication pores) (Hayward & Ryland, 1979).\nIn phylactolaemates, tubular strand of tissue incorporating small muscle fibers spanning metacoel from caecum to peritoneum of colony wall (Wood in Boardman & Cheetham, 1983).",
+    "citation": "Hayward & Ryland, 1979 - Wood in Boardman & Cheetham, 1983",
+    "links": "",
+    "figures": ""
+  },
+  {
+    "id": 0,
+    "term": "globulus",
+    "definition": "In catenicellid cheilostomes, an internode consisting of a single autozooid (Harmer, 1957).",
+    "citation": "Harmer, 1957",
+    "links": "internode",
+    "figures": ""
+  },
+  {
+    "id": 0,
+    "term": "gonozooid",
+    "definition": "Zooid modified as a brood chamber (Ryland & Hayward, 1977).",
+    "citation": "Ryland & Hayward, 1977",
+    "links": "",
+    "figures": "Crisia, Tubulipora, Densipora, Hornera"
+  },
+  {
+    "id": 0,
+    "term": "gymnocyst",
+    "definition": "In anascan cheilostomes, the part of the calcified frontal wall between the frontal membrane and the free edges of the vertical wall (modified after Ryland & Hayward, 1977).\nFrontal wall with calcified layer directly in contact with outer cuticle.",
+    "citation": "modified after Ryland & Hayward, 1977)",
+    "links": "frontal wall, cuticle",
+    "figures": ""
+  },
+  {
+    "id": 0,
+    "term": "gymnocystidean",
+    "definition": "Ascophorans in which the frontal wall forms by the calcification of the outer body wall (Hayward & Ryland, 1979).",
+    "citation": "Hayward & Ryland, 1979",
+    "links": "",
+    "figures": "Hippothoa, Chorizopora"
+  },
+  {
+    "id": 0,
+    "term": "gynozooecium, gynozooid",
+    "definition": "A polymorph formed by a single fertile zoid used to brood larvae in many cyclostomes; gynozooecia generally have bulbous distal parts in which the frontal wall bears a higher density of pseudopores than in the autozooecia, and apertures (ooeciopores) smaller than the autozooecial apertures. Synonymous with gonozooecium (gonozooid) as commonly used (Pitt & Taylor, 1991). \nThe term may also be applicable to cheilostomes which brood internally, in a modified autozooid.",
+    "citation": "Pitt & Taylor, 1991",
+    "links": "ooeciopores, gonozooecium (gonozooid)",
+    "figures": "Tubulipora, Adeonellopsis"
+  },
+  {
+    "id": 0,
+    "term": "hemiphragm",
+    "definition": "In stenolaemates, shelf-like skeletal projections in zooidal living chamber, which alternate in ontogenetic series from opposite sides of zooecia; hemiphragms in any one zooid commonly comparable in morphology (Boardman & Cheetham, 1983).",
+    "citation": "Boardman & Cheetham, 1983",
+    "links": "",
+    "figures": ""
+  },
+  {
+    "id": 0,
+    "term": "hemiseptum",
+    "definition": "In stenolaemates, shelf-like skeletal projections in zooidal living chamber, generally on proximal walls or in one or two pairs in alternate positions on proximal and distal sides of zooecia. Proximal and distal hemisepta commonly different in morphology in zoaria of Palaeozoic age (Boardman & Cheetham, 1983).",
+    "citation": "Boardman & Cheetham, 1983",
+    "links": "",
+    "figures": ""
+  },
+  {
+    "id": 0,
+    "term": "heterostyle",
+    "definition": "In cryptostomes, a type of stylet with a core made of lenses of non-laminated calcite separated by bands of laminae continuous with sheath laminae weakly to strongly directed toward colony surface, sheath lamellar bundle narrow. (Blake 1983)",
+    "citation": "Blake, 1983",
+    "links": "stylet",
+    "figures": ""
+  },
+  {
+    "id": 0,
+    "term": "heterozooid",
+    "definition": "Specialised (polymorphic) zooid; not an autozooid. Polymorphic zooids in the cheilostomes include avicularia, vibracula, rhizoids, kenozooids, zooeciules, and some types of spines.",
+    "citation": "",
+    "links": "autozooid, avicularia, vibracula, rhizoids, kenozooids, zooeciules, spines.",
+    "figures": ""
+  },
+  {
+    "id": 0,
+    "term": "hypostegal coelom",
+    "definition": "An extension of the main coelom overlying the frontal calcification in umbonuloid and cryptocystidean (lepralioid) cheilostomes (Hayward & Ryland, 1979).",
+    "citation": "Hayward & Ryland, 1979",
+    "links": "lepralioid",
+    "figures": ""
+  },
+  {
+    "id": 0,
+    "term": "hyperstomial ooecium",
+    "definition": "An ooecium which rests on or is partly embedded in the distal zooid, and opens above the operculum of the parent zooid. (Hayward & Ryland, 1998)",
+    "citation": "Hayward & Ryland, 1998",
+    "links": "ooecium",
+    "figures": "Calyptotheca"
+  },
+  {
+    "id": 0,
+    "term": "independent ooecium",
+    "definition": "An ooecium which develops independently of the distal zooid. (Hayward & Ryland, 1998)",
+    "citation": "ayward & Ryland, 1998",
+    "links": "ooecium",
+    "figures": "Antarctothoa"
+  },
+  {
+    "id": 0,
+    "term": "infrascapular chamber",
+    "definition": "In catenicellid cheilostomes, the most proximal of the chambers of the the lateral process (after Harmer, 1957). Syn. inferior compartment. This chamber may be divided into two.",
+    "citation": "after Harmer, 1957",
+    "links": "chambers, lateral process",
+    "figures": ""
+  },
+  {
+    "id": 0,
+    "term": "inner vesicle",
+    "definition": "See ooecial vesicle.",
+    "citation": "",
+    "links": "ooecial vesicle",
+    "figures": ""
+  },
+  {
+    "id": 0,
+    "term": "interior wall (interior calcification)",
+    "definition": "Calcified internal walls or partitions developed from pre-existing structures, not bounded by the zooid cuticle, and overlain by a hypostegal coelom (Hayward & Ryland, 1985).\nBody wall that partitions pre-existing body cavity into zooids, parts of zooids, or extrazooidal parts; may or may not include cuticular or gelatinous layer (Boardman & Cheetham, 1983).",
+    "citation": "Hayward & Ryland, 1985 - Boardman & Cheetham, 1983)",
+    "links": "cuticle",
+    "figures": ""
+  },
+  {
+    "id": 0,
+    "term": "internode",
+    "definition": "In erect articulated colonies, internodes are the sections bearing autozooids, joined by connecting tubes which are uncalcified or poorly calcified.",
+    "citation": "",
+    "links": "",
+    "figures": ""
+  },
+  {
+    "id": 0,
+    "term": "intertentacular organ",
+    "definition": "Tubular, internally ciliate chamber (extension of the coelomopore), used for the extrusion of ova, between the dorso-medial tentacles. (after Hayward & Ryland, 1998)",
+    "citation": "after Hayward & Ryland, 1998",
+    "links": "coelomopore",
+    "figures": ""
+  },
+  {
+    "id": 0,
+    "term": "interzooidal avicularium",
+    "definition": "Avicularium positioned between zooids in a layer, extending to the basal wall, usually rather smaller than a normal zooid. See vicarious avicularium. Interzooidal avicularia communicate with adjacent zooids.",
+    "citation": "",
+    "links": "Avicularium, vicarious avicularium",
+    "figures": ""
+  },
+  {
+    "id": 0,
+    "term": "introvert",
+    "definition": "See tentacle sheath.",
+    "citation": "",
+    "links": "tentacle sheath",
+    "figures": ""
+  },
+  {
+    "id": 0,
+    "term": "kenozooid",
+    "definition": "Heterozooid without a polypide; usually without orifice or muscles. (Hayward & Ryland, 1979). May have a window.",
+    "citation": "Hayward & Ryland, 1979",
+    "links": "window",
+    "figures": ""
+  },
+  {
+    "id": 0,
+    "term": "labellum",
+    "definition": "In some phidoloporid cheilostomes, a lip on the proximal edge of the ovicell, which descends into the secondary orifice.",
+    "citation": "",
+    "links": "",
+    "figures": "Iodictyum"
+  },
+  {
+    "id": 0,
+    "term": "labial pore",
+    "definition": "In some phidoloporid cheilostomes, a pore on the proximal margin of the secondary orifice. This is formed by the closing of a pseudosinus, and is equivalent to a spiraminal pore.",
+    "citation": "",
+    "links": "",
+    "figures": "Iodictyum"
+  },
+  {
+    "id": 0,
+    "term": "lacuna",
+    "definition": "Perforation (true pore) between costaemaking up the frontal shield in some Cheilostomata (Hayward & Ryland, 1979).",
+    "citation": "Hayward & Ryland, 1979",
+    "links": "costa",
+    "figures": "Corbulipora"
+  },
+  {
+    "id": 0,
+    "term": "lateral denticle",
+    "definition": "In some ascophoran cheilostomes, paired tooth-like processes on the outer surface of the lateral margin of the orifice, i.e. outside the operculum. Partial synonyms include extra-opercular teeth, hinge-teeth (Tilbrook & Cook 2001). Examples: Riscodopa biincisa",
+    "citation": "Tilbrook & Cook 2001",
+    "links": "",
+    "figures": "Riscodopa biincisa"
+  },
+  {
+    "id": 0,
+    "term": "lateral process",
+    "definition": "In catenicellid cheilostomes, a lateral projection of an internode, often at the distal end (modified after Harmer, 1957).",
+    "citation": "modified after Harmer, 1957",
+    "links": "",
+    "figures": ""
+  },
+  {
+    "id": 0,
+    "term": "lateral sinus",
+    "definition": "In some ascophoran cheilostomes, the part of the orifice beween the median denticle and the lateral denticles. (modified after Tilbrook & Cook 2001).",
+    "citation": "modified after Tilbrook & Cook 2001",
+    "links": "median, denticle, lateral denticles",
+    "figures": "Riscodopa biincisa"
+  },
+  {
+    "id": 0,
+    "term": "lateral wall",
+    "definition": "In cheilostomes, vertical skeletal walls between adjacent rows of zooids; aligned with growth direction. Perforated by communication pores between zooids.",
+    "citation": "",
+    "links": "communication pores",
+    "figures": ""
+  },
+  {
+    "id": 0,
+    "term": "lepralioid",
+    "definition": "Ascophoran cheilostomes in which autozooids have frontal shields formed as cryptocysts (Boardman & Cheetham, 1983). See cryptocystidean",
+    "citation": "Boardman & Cheetham, 1983",
+    "links": "cryptocystidean",
+    "figures": ""
+  },
+  {
+    "id": 0,
+    "term": "leptoblast",
+    "definition": "Floatoblast that germinates almost immediately after release from parent colony (Boardman & Cheetham, 1983).",
+    "citation": "Boardman & Cheetham, 1983",
+    "links": "Floatoblast",
+    "figures": ""
+  },
+  {
+    "id": 0,
+    "term": "ligula",
+    "definition": "Skeletal projection from the bar of an avicularium into the palate.",
+    "citation": "",
+    "links": "bar, palate",
+    "figures": ""
+  },
+  {
+    "id": 0,
+    "term": "lophophore",
+    "definition": "The ring of hollow, ciliated tentacles surrounding the mouth of the zooid (Hayward & Ryland, 1979).",
+    "citation": "Hayward & Ryland, 1979",
+    "links": "",
+    "figures": ""
+  },
+  {
+    "id": 0,
+    "term": "lucida",
+    "definition": "A transparent spot on the surface of a cuticular operculum (Hayward & Ryland, 1979).",
+    "citation": "Hayward & Ryland, 1979",
+    "links": "operculum",
+    "figures": ""
+  },
+  {
+    "id": 0,
+    "term": "lunarium",
+    "definition": "In cystoporates, microstructurally distinct or thicker part of autozooecium or large monticular zooecium; on proximal or lateral side of autozoecium and projecting above zooecial aperture or peristome as a hood; commonly with shorter radius of curvature than remainder of zooecial wall (Boardman & Cheetham, 1983).",
+    "citation": "Boardman & Cheetham, 1983",
+    "links": "monticular",
+    "figures": ""
+  },
+  {
+    "id": 0,
+    "term": "lunoecium",
+    "definition": "Uncalcified window in wall of kenozooid giving rise to rhizoid in some cheilostomes.",
+    "citation": "",
+    "links": "window",
+    "figures": "Bipora"
+  },
+  {
+    "id": 0,
+    "term": "lyrula",
+    "definition": "Supraopercular median tooth, often anvil-shaped, on the proximal side of the orifice in some Cheilostomata (Modified after Hayward & Ryland, 1979, correction by Andrei Ostrovsky",
+    "citation": "Modified after Hayward & Ryland, 1979, correction by Andrei Ostrovsky",
+    "links": "",
+    "figures": "Smittina"
+  },
+  {
+    "id": 0,
+    "term": "macula (Pl. maculae)",
+    "definition": "A distinct patch on the colony surface, usually marking the site of an excurrent chimney, often formed by a cluster of polymorphs or new zooecial buds (Pitt & Taylor, 1991). See monticule. \nMaculae are the nonzooidal centres of monticules; some types of maculae are not excurrent centres (Anstey, 1987)",
+    "citation": "Pitt & Taylor, 1991 - Anstey, 1987",
+    "links": "monticule",
+    "figures": ""
+  },
+  {
+    "id": 0,
+    "term": "mandible",
+    "definition": "Articulated part of an avicularium, moved by muscles, and homologous with the operculum of an autozooid (Hayward & Ryland, 1977).",
+    "citation": "Hayward & Ryland, 1977",
+    "links": "avicularium",
+    "figures": ""
+  },
+  {
+    "id": 0,
+    "term": "marginal spine",
+    "definition": "Spine, often jointed at base, in a series surrounding the frontal area in Cheilostomata (Hayward & Ryland, 1998).",
+    "citation": "Hayward & Ryland, 1998",
+    "links": "",
+    "figures": ""
+  },
+  {
+    "id": 0,
+    "term": "maternal zooid",
+    "definition": "The proximal reproductive zooid from which larvae pass to an ooecium. (Hayward & Ryland, 1979).",
+    "citation": "Hayward & Ryland, 1979",
+    "links": "",
+    "figures": ""
+  },
+  {
+    "id": 0,
+    "term": "median denticle",
+    "definition": "In some ascophoran cheilostomes, a central tooth-like process on the outer surface of the proximal margin of the orifice, i.e. outside the operculum. Synonym is lyrula (modified after Tilbrook & Cook 2001). Examples: Riscodopa biincisa",
+    "citation": "modified after Tilbrook & Cook 2001",
+    "links": "lyrula",
+    "figures": "Riscodopa biincisa"
+  },
+  {
+    "id": 0,
+    "term": "membranous sac",
+    "definition": "In stenolaemates, membrane that surrounds digestive and reproductive system of zooid, dividing body cavity into two parts, the entosaccal cavity within sac, and the exosaccal cavity between sac and zooidal body wall (Boardman & Cheetham, 1983).",
+    "citation": "Boardman & Cheetham, 1983",
+    "links": "entosaccal cavity, exosaccal cavity",
+    "figures": ""
+  },
+  {
+    "id": 0,
+    "term": "metamorphosis",
+    "definition": "An extensive external and internal reorganisation of a larva to produce a founding zooid (ancestrula) or multiple founding zooids (primary zooids) of most stenolaemate and gymnolaemate colonies (Boardman & Cheetham, 1983).",
+    "citation": "Boardman & Cheetham, 1983",
+    "links": "ancestrula",
+    "figures": ""
+  },
+  {
+    "id": 0,
+    "term": "monila",
+    "definition": "In stenolaemates, an intermittent thickening of the zooecial wall. In thin sections, the monilae look like a string of beads (modified after Boardman & Cheetham, 1983).",
+    "citation": "modified after Boardman & Cheetham, 1983",
+    "links": "",
+    "figures": ""
+  },
+  {
+    "id": 0,
+    "term": "monticule",
+    "definition": "A hummock on the colony surface, which probably formed an excurrent chimney (Pitt & Taylor, 1991). In stenolaemates, the equivalent of macula.",
+    "citation": "Pitt & Taylor, 1991",
+    "links": "",
+    "figures": ""
+  },
+  {
+    "id": 0,
+    "term": "mother zooecium",
+    "definition": "In catenicellid cheilostomes, the proximal member of a biglobulus (or triglobulus) (after Harmer, 1957) (Not related to reproduction!).",
+    "citation": "after Harmer, 1957",
+    "links": "biglobulus",
+    "figures": ""
+  },
+  {
+    "id": 0,
+    "term": "mucro/ mucrone",
+    "definition": "A blunt or spinous elevation of the (usually proximal) lip of the orifice in some Cheilostomata. (Hayward & Ryland, 1998)",
+    "citation": "Hayward & Ryland, 1998",
+    "links": "",
+    "figures": ""
+  },
+  {
+    "id": 0,
+    "term": "multiporous septulum",
+    "definition": "See septulum.",
+    "citation": "",
+    "links": "septulum",
+    "figures": ""
+  },
+  {
+    "id": 0,
+    "term": "multizooidal",
+    "definition": "See extrazooidal.",
+    "citation": "",
+    "links": "extrazooidal",
+    "figures": ""
+  },
+  {
+    "id": 0,
+    "term": "mural pore-chamber",
+    "definition": "Cavity enclosed by the rosette-plate, in the vertical zooid walls of some cheilostomes (Hayward & Ryland, 1998).",
+    "citation": "Hayward & Ryland, 1998",
+    "links": "",
+    "figures": ""
+  },
+  {
+    "id": 0,
+    "term": "mural rim",
+    "definition": "The edge of the zooid skeleton surrounding the area in anascan cheilstomates, sometimes with spinous processes.",
+    "citation": "",
+    "links": "",
+    "figures": ""
+  },
+  {
+    "id": 0,
+    "term": "mural spine",
+    "definition": "In stenolaemates, small skeletal spipnes extending into the zooidal chamber from the skeletal wall or diaphragm. (Boardman & Cheetham, 1983)",
+    "citation": "Boardman & Cheetham, 1983",
+    "links": "",
+    "figures": ""
+  },
+  {
+    "id": 0,
+    "term": "nanozooid",
+    "definition": "Dwarf zooid containing reduced polypide in some cyclostomes (Hayward & Ryland, 1998).",
+    "citation": "Hayward & Ryland, 1998",
+    "links": "",
+    "figures": ""
+  },
+  {
+    "id": 0,
+    "term": "node",
+    "definition": "See internode",
+    "citation": "",
+    "links": "internode",
+    "figures": ""
+  },
+  {
+    "id": 0,
+    "term": "occlusor lamella",
+    "definition": "In some anascan cheilostomes (Chaperiidae), a pair of skeletal plates, forming cavities with the lateral walls for the accommodation of opercular occlusor muscles.",
+    "citation": "",
+    "links": "",
+    "figures": "Chaperia"
+  },
+  {
+    "id": 0,
+    "term": "occlusor muscles",
+    "definition": "Muscles closing the operculum (Hayward & Ryland, 1998).",
+    "citation": "Hayward & Ryland, 1998",
+    "links": "",
+    "figures": ""
+  },
+  {
+    "id": 0,
+    "term": "ontogeny",
+    "definition": "The development of a zooid (cf. astogeny) (Pitt & Taylor, 1991).",
+    "citation": "Pitt & Taylor, 1991",
+    "links": "astogeny",
+    "figures": ""
+  },
+  {
+    "id": 0,
+    "term": "ooecial vesicle",
+    "definition": "The inner membrane and means of closure of an ovicell. (Hayward & Ryland, 1979)",
+    "citation": "Hayward & Ryland, 1979",
+    "links": "ovicell",
+    "figures": ""
+  },
+  {
+    "id": 0,
+    "term": "ooeciostome (ooeciopore)",
+    "definition": "The opening (especially in stenolaemates) of the gonozooid (gynozooecium), through which larvae are released. Typically different in shape from the autozooid aperture, and usually characteristic for each species. (Hayward & Ryland, 1985)",
+    "citation": "Hayward & Ryland, 1985)",
+    "links": "gonozooid, gynozooecium, autozooid",
+    "figures": ""
+  },
+  {
+    "id": 0,
+    "term": "ooecium",
+    "definition": "Ovicell or brood-chamber in cheilostomes, excluding the ooecial vesicle. \nSome characteristic types of ooecia include independent, dependent, acleithral, cleithral, endotoichal, endozooidal, hyperstomial, peristomial.",
+    "citation": "187",
+    "links": "Ovicell, ooecial vesicle, independent, dependent, acleithral, cleithral, endotoichal, endozooidal, hyperstomial, peristomial",
+    "figures": ""
+  },
+  {
+    "id": 0,
+    "term": "operculum",
+    "definition": "A generally uncalcified lamina (or flap), hinged, or pivoting on condyles, which closes the zooidal orifice in Cheilostomata (Hayward & Ryland, 1979). Calcified opercula are found in some cheilostomes, and also in the cyclostome Family Eleidae .",
+    "citation": "Hayward & Ryland, 1979",
+    "links": "",
+    "figures": ""
+  },
+  {
+    "id": 0,
+    "term": "opesia",
+    "definition": "In zooids of anascan Cheilostomata, the opening below the frontal membrane which remains after development of the cryptocyst. (Hayward & Ryland, 1979). Compare area.",
+    "citation": "Hayward & Ryland, 1979",
+    "links": "area",
+    "figures": "Opaeophora, Chondriovelum, Steginoporella, Parellisina"
+  },
+  {
+    "id": 0,
+    "term": "opesiule",
+    "definition": "In anascan cheilostomes, small openings or pores in the cryptocyst proximal to the opesia for the passage of parietal muscles.",
+    "citation": "parietal muscles",
+    "links": "",
+    "figures": "Selenaria, Caleschara, Opaeophora, Macropora"
+  },
+  {
+    "id": 0,
+    "term": "opesiular indentation",
+    "definition": "In anascan cheilostomes, indentations of the proximal margin of the opesia for the passage of parietal muscles.",
+    "citation": "",
+    "links": "parietal muscles",
+    "figures": "Selenaria"
+  },
+  {
+    "id": 0,
+    "term": "oral",
+    "definition": "Pertaining to the orifice of a bryozoan zooid (not to the mouth) (Hayward & Ryland, 1998).",
+    "citation": "Hayward & Ryland, 1998",
+    "links": "peristome",
+    "figures": ""
+  },
+  {
+    "id": 0,
+    "term": "orifice",
+    "definition": "Opening in the zooid wall through which the lophophore and tentacles are exserted. In Cheilostomata, the primary orifice may be surrounded by a peristome; the opening at the upper end is then known as a secondary orifice. (Hayward & Ryland, 1979)",
+    "citation": "Hayward & Ryland, 1979",
+    "links": "",
+    "figures": "Smittina, Hippoporina, Porina"
+  },
+  {
+    "id": 0,
+    "term": "ovicell",
+    "definition": "The globular brood chamber in Cheilostomata (Ryland & Hayward, 1977).",
+    "citation": "Ryland & Hayward, 1977)",
+    "links": "",
+    "figures": "Scruparia, Hiantopora, Selenaria, Smittina, Hippoporina, Porina, Hippothoa"
+  },
+  {
+    "id": 0,
+    "term": "palate",
+    "definition": "Part of the avicularium occupied by the mandible (Ryland & Hayward, 1977).",
+    "citation": "Ryland & Hayward, 1977)",
+    "links": "mandible",
+    "figures": ""
+  },
+  {
+    "id": 0,
+    "term": "parietal muscle",
+    "definition": "One of commonly multiple, usually bilaterally paired muscles that traverse body cavity of gymnolaemate zooid to insert on flexible part of body wall or floor of ascus, generally to function in hydrostatic system (Hayward & Ryland, 1998).",
+    "citation": "Hayward & Ryland, 1998",
+    "links": "",
+    "figures": ""
+  },
+  {
+    "id": 0,
+    "term": "paurostyle",
+    "definition": "In cryptostomes, a type of stylet with an irregular core of non-laminated material. Sheath lamellae weakly directed toward colony surface, sheath lamellar bundle narrow. Transitional to acanthostyles, but usually smaller. (Blake 1983)",
+    "citation": "Blake 1983",
+    "links": "acanthostyles",
+    "figures": ""
+  },
+  {
+    "id": 0,
+    "term": "peduncle",
+    "definition": "The stalk of an avicularium.",
+    "citation": "",
+    "links": "",
+    "figures": ""
+  },
+  {
+    "id": 0,
+    "term": "pedunculate",
+    "definition": "Stalked (of avicularium).",
+    "citation": "",
+    "links": "",
+    "figures": ""
+  },
+  {
+    "id": 0,
+    "term": "pelma",
+    "definition": "See pelmatidium.",
+    "citation": "",
+    "links": "pelmatidium",
+    "figures": ""
+  },
+  {
+    "id": 0,
+    "term": "pelmatidium",
+    "definition": "Small uncalcified pores (or windows ) in the costae of cribrimorphs. Larger similar pores have been termed pelma (Pl. pelmata).",
+    "citation": "",
+    "links": "windows",
+    "figures": "Corbulipora, Diagram by Lang"
+  },
+  {
+    "id": 0,
+    "term": "pericyst",
+    "definition": "See costate shield.\nSee visceral coelom.",
+    "citation": "",
+    "links": "costate shield, visceral coelom",
+    "figures": ""
+  },
+  {
+    "id": 0,
+    "term": "peripheral",
+    "definition": ".",
+    "citation": "",
+    "links": "",
+    "figures": ""
+  },
+  {
+    "id": 0,
+    "term": "peristome",
+    "definition": "In cyclostomes: A tubular prolongation around the zooidal aperture (Pitt & Taylor, 1991).\nA rim which may become elevated surrounding the primary orifice (Hayward & Ryland, 1979).",
+    "citation": "Pitt & Taylor, 1991 - Hayward & Ryland, 1979",
+    "links": "",
+    "figures": "Tubulipora, Porina, Margaretta"
+  },
+  {
+    "id": 0,
+    "term": "peristomial ooecium",
+    "definition": "An oeecium which is enclosed in the peristome tube.",
+    "citation": "",
+    "links": "",
+    "figures": "Margaretta"
+  },
+  {
+    "id": 0,
+    "term": "petraliform",
+    "definition": "A colony form of low growing sheets, attached to the substrate by cuticular rhizoids, as in Mucropetraliella (not in Petralia).",
+    "citation": "",
+    "links": "colony form",
+    "figures": "Mucropetraliella, Hiantopora"
+  },
+  {
+    "id": 0,
+    "term": "piptoblast",
+    "definition": "Statoblast lacking both annulus and marginal hooks, often adhering to the body wall by small keel-like projections on the basal valve, not released from parent colony (Boardman & Cheetham, 1983).",
+    "citation": "Boardman & Cheetham, 1983",
+    "links": "Statoblast",
+    "figures": ""
+  },
+  {
+    "id": 0,
+    "term": "pivotal bar",
+    "definition": "See bar.",
+    "citation": "",
+    "links": "bar",
+    "figures": ""
+  },
+  {
+    "id": 0,
+    "term": "plume cilia",
+    "definition": ".",
+    "citation": "",
+    "links": "",
+    "figures": ""
+  },
+  {
+    "id": 0,
+    "term": "polypide",
+    "definition": "Those organs and tissues in a bryozoan autozooid which undergo periodic replacement; namely, tentacles, tentacle sheath, alimentary canal, associated musculature and nerve ganglion. (Hayward & Ryland, 1979)",
+    "citation": "Hayward & Ryland, 1979",
+    "links": "",
+    "figures": ""
+  },
+  {
+    "id": 0,
+    "term": "pore-chamber",
+    "definition": "See dietella",
+    "citation": "",
+    "links": "dietella",
+    "figures": ""
+  },
+  {
+    "id": 0,
+    "term": "pore plate",
+    "definition": "Differentiated zone of a vertical wall, pierced by several communication pores connecting to the adjacent zooid. (Syn rosette plate)",
+    "citation": "",
+    "links": "vertical wall, communication pores, rosette plate",
+    "figures": ""
+  },
+  {
+    "id": 0,
+    "term": "porta",
+    "definition": "See anter (Obs.)",
+    "citation": "",
+    "links": "anter",
+    "figures": ""
+  },
+  {
+    "id": 0,
+    "term": "poster",
+    "definition": "Part of the orifice in ascophoran Cheilostomata proximal to the condyles and leading to the ascus. (Hayward & Ryland, 1979) (Cf anter)",
+    "citation": "Hayward & Ryland, 1979",
+    "links": "ascus, anter",
+    "figures": ""
+  },
+  {
+    "id": 0,
+    "term": "primary",
+    "definition": ".",
+    "citation": "",
+    "links": "",
+    "figures": ""
+  },
+  {
+    "id": 0,
+    "term": "primary orifice",
+    "definition": "Opening in orificial wall through which the lophophore is protruded; may be uncalcified (in anascan and umbonuloid cheilostomes), or be coterminous with operculum and orifical wall in ascophorans.",
+    "citation": "",
+    "links": "umbonuloid",
+    "figures": ""
+  },
+  {
+    "id": 0,
+    "term": "proancestrula",
+    "definition": ".",
+    "citation": "",
+    "links": "",
+    "figures": ""
+  },
+  {
+    "id": 0,
+    "term": "protoecium",
+    "definition": "The bulb-like proximal portion of a cyclostome ancestrula (Pitt & Taylor, 1991).",
+    "citation": "Pitt & Taylor, 1991",
+    "links": "ancestrula",
+    "figures": ""
+  },
+  {
+    "id": 0,
+    "term": "proximal",
+    "definition": "Pertaining to the side toward the ancestrula or origin of growth (Ryland & Hayward, 1977).",
+    "citation": "Ryland & Hayward, 1977",
+    "links": "ancestrula",
+    "figures": ""
+  },
+  {
+    "id": 0,
+    "term": "pseudopore",
+    "definition": "Tissue-filled lacuna in the calcification of the outer zooid wall in many Bryozoa (Hayward & Ryland, 1998). In contrast to communication pores, there is no cellular tissue passing through the pore.",
+    "citation": "Hayward & Ryland, 1998",
+    "links": "communication pores",
+    "figures": "Hippoporina, Schizoporella"
+  },
+  {
+    "id": 0,
+    "term": "pseudosinus",
+    "definition": "A notch in the peristome of some ascophorans (Hayward & Ryland, 1998). When the pseudosinus closes to form a tube, it becomes a spiramen.",
+    "citation": "Hayward & Ryland, 1998",
+    "links": "spiramen",
+    "figures": "Phidolopora"
+  },
+  {
+    "id": 0,
+    "term": "quincuncial",
+    "definition": "Arrangement of five objects such that four are placed at the corners of a rectangle with the other in the centre (Hayward & Ryland, 1998).",
+    "citation": "Hayward & Ryland, 1998",
+    "links": "",
+    "figures": ""
+  },
+  {
+    "id": 0,
+    "term": "radicular chamber",
+    "definition": "In some petraliellid cheilostomes, a coelomic cavity between the basal cuticle and the basal calcification with a single septular pore, or with multiple pores. Rhizoids for basal attachment develop from these communication pores. (modified after Tilbrook & Cook 2001).",
+    "citation": "modified after Tilbrook & Cook 2001",
+    "links": "Rhizoid",
+    "figures": ""
+  },
+  {
+    "id": 0,
+    "term": "reticulate",
+    "definition": "A colony which is composed of a net-like or lacey framework of skeletal calcification, as in Fenestella or in many phidoloporid cheilostomes (syn.: fenestrate).",
+    "citation": "",
+    "links": "fenestrate",
+    "figures": ""
+  },
+  {
+    "id": 0,
+    "term": "retractor muscles",
+    "definition": "Muscles arising from the proximal end of the zooid, inserted on the pharynx and the base of the lophophore, serving to withdraw the polypide (Hayward & Ryland, 1998).",
+    "citation": "Hayward & Ryland, 1998",
+    "links": "",
+    "figures": ""
+  },
+  {
+    "id": 0,
+    "term": "rhizoid",
+    "definition": "Zooid, usually weakly calcified, modified as a rootlet, for stabilising a colony to the substrate, or for reinforcing a branch, or for connecting across bracnhes of a colony.",
+    "citation": "",
+    "links": "",
+    "figures": ""
+  },
+  {
+    "id": 0,
+    "term": "rimule",
+    "definition": "See sinus",
+    "citation": "",
+    "links": "sinus",
+    "figures": ""
+  },
+  {
+    "id": 0,
+    "term": "rosette plate",
+    "definition": "Multiporous subcircular area in vertical walls of Cheilostomata for the passage of mesenchymatous fibres between zooids (syn. multiporous septulum)(Hayward & Ryland, 1998).",
+    "citation": "Hayward & Ryland, 1998",
+    "links": "septulum",
+    "figures": ""
+  },
+  {
+    "id": 0,
+    "term": "rostrum",
+    "definition": "Spike-like prolongation of an avicularium.\nDistal part of avicularium occupied by mandible (syn. palate) (Hayward & Ryland, 1998).",
+    "citation": "Hayward & Ryland, 1998",
+    "links": "avicularium",
+    "figures": ""
+  },
+  {
+    "id": 0,
+    "term": "scapular chamber",
+    "definition": "In catenicellid cheilostomes, the central of the chambers of the the lateral process (after Harmer, 1957). Syn. middle or avicularian compartment.",
+    "citation": "after Harmer, 1957",
+    "links": "chambers, lateral process",
+    "figures": ""
+  },
+  {
+    "id": 0,
+    "term": "schizoporellid",
+    "definition": ".",
+    "citation": "",
+    "links": "",
+    "figures": ""
+  },
+  {
+    "id": 0,
+    "term": "sclerite",
+    "definition": "Thickened strut in cuticle of operculum, mandible or frontal membrane (Hayward & Ryland, 1998).",
+    "citation": "Hayward & Ryland, 1998)",
+    "links": "cuticle",
+    "figures": ""
+  },
+  {
+    "id": 0,
+    "term": "scutum",
+    "definition": "Shield-like flattened, or branched spine partially covering opesia in some anascans.",
+    "citation": "",
+    "links": "",
+    "figures": "Monartron, Tricellaria"
+  },
+  {
+    "id": 0,
+    "term": "secondary orifice",
+    "definition": "In those species with a immersed primary orifice, the outer opening of the peristome (Hayward & Ryland, 1998). The secondary orifice is calcified, and may surround the primary orifice or be raised as a peristome.",
+    "citation": "Hayward & Ryland, 1998)",
+    "links": "primary orifice, peristome",
+    "figures": ""
+  },
+  {
+    "id": 0,
+    "term": "septulum, septular pore",
+    "definition": "Single (uniporous) or grouped (multiporous) perforations in the wall of Cheilostomata for the passage of mesenchymatous fibres between zooids (syn. rosette plate ) (Hayward & Ryland, 1998).",
+    "citation": "Hayward & Ryland, 1998",
+    "links": "rosette plate",
+    "figures": ""
+  },
+  {
+    "id": 0,
+    "term": "septum",
+    "definition": "An interior wall or partition, not associated with cuticle, for example, transverse vertical walls of most species (Hayward & Ryland, 1998).",
+    "citation": "Hayward & Ryland, 1998",
+    "links": "cuticle",
+    "figures": ""
+  },
+  {
+    "id": 0,
+    "term": "sessoblast",
+    "definition": "Statoblast cemented through colony wall to substrate, usually with rudimentary annulus, but lacking marginal hooks or spines (Boardman & Cheetham, 1983).",
+    "citation": "Boardman & Cheetham, 1983",
+    "links": "Statoblast",
+    "figures": ""
+  },
+  {
+    "id": 0,
+    "term": "seta",
+    "definition": ".",
+    "citation": "",
+    "links": "",
+    "figures": ""
+  },
+  {
+    "id": 0,
+    "term": "setiform",
+    "definition": "Avicularian mandibles which are thin and long, extended well beyond the palate of the avicularium. Transitional to vibracular setae.",
+    "citation": "",
+    "links": "palate, vibracular",
+    "figures": ""
+  },
+  {
+    "id": 0,
+    "term": "single-walled",
+    "definition": "See fixed-wall",
+    "citation": "",
+    "links": "fixed-wall",
+    "figures": ""
+  },
+  {
+    "id": 0,
+    "term": "sinus",
+    "definition": "Slit (or notch) at proximal edge of orifice in some ascophoran cheilostomes (after Hayward & Ryland, 1998).",
+    "citation": "after Hayward & Ryland, 1998",
+    "links": "",
+    "figures": ""
+  },
+  {
+    "id": 0,
+    "term": "spine",
+    "definition": "This is not considered a technical term, and is used for a diverse range of skeletal prominences. Types include oral spines, mural spines, costae. Spines are generally hollow, with interior tissue. Some are kenozooidal, and may be jointed.",
+    "citation": "",
+    "links": "costae",
+    "figures": ""
+  },
+  {
+    "id": 0,
+    "term": "spinocyst",
+    "definition": ".",
+    "citation": "",
+    "links": "",
+    "figures": ""
+  },
+  {
+    "id": 0,
+    "term": "spiramen",
+    "definition": "In ascophoran cheilostomes, an opening in the external frontal calcification proximal to the secondary orifice connecting to the interior of the peristomial tube above (frontal to) the primary orifice, or to the space between the frontal shield and the frontal membrane in umbonuloids. There are several types of spiramina - some obviously function as part of the compensation system. Compare ascopore.",
+    "citation": "",
+    "links": "ascopore",
+    "figures": "Porina, Adeonellopsis"
+  },
+  {
+    "id": 0,
+    "term": "statoblast",
+    "definition": "In phylactolaemates, free encapsulated bud in discoid envelope of chitin, with large yolky cells and organised germinal tissue capable of giving rise to polypide to start a new colony; formed on funiculus of parent zooid by migration of epithelial cells (after Boardman & Cheetham, 1983). Types include floatoblast, leptoblast, piptoblast, sessoblast.",
+    "citation": "after Boardman & Cheetham, 1983",
+    "links": "funiculus, floatoblast, leptoblast, piptoblast, sessoblast",
+    "figures": ""
+  },
+  {
+    "id": 0,
+    "term": "stigma",
+    "definition": "A groove or gap in the calcification of the ectooecium of some phidoloporid cheilostomes.",
+    "citation": "",
+    "links": "",
+    "figures": "Triphyllozoon, Iodictyum, Reteporellina"
+  },
+  {
+    "id": 0,
+    "term": "stylet style acanthopore",
+    "definition": "Also style, acanthopore.\nIn stenolaemates, a rod-like structure parallel to the zooidal growth directions, forming spinose projections on the colony surface. (Boardman & Cheetham, 1983) Four types of stylets are acanthostyles, aktinotostyles, paurostyles, and heterostyles.",
+    "citation": "Boardman & Cheetham, 1983",
+    "links": "acanthostyles, aktinotostyles, paurostyles, heterostyles",
+    "figures": ""
+  },
+  {
+    "id": 0,
+    "term": "sulcus",
+    "definition": "Groove delineating the boundary between adjacent zooids (Hayward & Ryland, 1998).",
+    "citation": "Hayward & Ryland, 1998",
+    "links": "",
+    "figures": ""
+  },
+  {
+    "id": 0,
+    "term": "supraneural pore",
+    "definition": "See coelomopore.",
+    "citation": "",
+    "links": "coelomopore",
+    "figures": ""
+  },
+  {
+    "id": 0,
+    "term": "suprascapular chamber",
+    "definition": "In catenicellid cheilostomes, the most distal of the chambers of the the lateral process (after Harmer, 1957). Syn. superior compartment.",
+    "citation": "after Harmer, 1957",
+    "links": "chambers, lateral process, superior compartment",
+    "figures": ""
+  },
+  {
+    "id": 0,
+    "term": "tabula",
+    "definition": "In cheilostomes, an area of uncalcified ectooecium exposing the entooecium. \nVarious types of marginal pores or calcified struts may be visible.",
+    "citation": "",
+    "links": "",
+    "figures": ""
+  },
+  {
+    "id": 0,
+    "term": "tatiform",
+    "definition": "An ancestrula with a membranous frontal wall, often surrounded by spines (Hayward & Ryland, 1998).",
+    "citation": "Hayward & Ryland, 1998",
+    "links": "ancestrula, spines",
+    "figures": ""
+  },
+  {
+    "id": 0,
+    "term": "tentacle sheath",
+    "definition": "Thin part of body wall introverted in retraction of tentacles and then enclosing them (Hayward & Ryland, 1998).",
+    "citation": "Hayward & Ryland, 1998",
+    "links": "",
+    "figures": ""
+  },
+  {
+    "id": 0,
+    "term": "terminal membrane",
+    "definition": ".",
+    "citation": "",
+    "links": "",
+    "figures": ""
+  },
+  {
+    "id": 0,
+    "term": "trabecula",
+    "definition": "Branch separating the fenestrulae in reticulate cheilostomes (Phidoloporidae) (Hayward & Ryland, 1998).",
+    "citation": "Hayward & Ryland, 1998",
+    "links": "",
+    "figures": ""
+  },
+  {
+    "id": 0,
+    "term": "transverse parietal muscles",
+    "definition": ".",
+    "citation": "",
+    "links": "",
+    "figures": ""
+  },
+  {
+    "id": 0,
+    "term": "transverse wall",
+    "definition": "In gymnolaemates, a partition between adjacent zooids in a linear series, separating a zooid from its distal and proximal neighbours.",
+    "citation": "",
+    "links": "",
+    "figures": ""
+  },
+  {
+    "id": 0,
+    "term": "umbo (umbone)",
+    "definition": "In cheilostomes, a prominence on the frontal wall proximal to the orifice. It is also used for prominences on ovicells or avicularia.",
+    "citation": "",
+    "links": "",
+    "figures": ""
+  },
+  {
+    "id": 0,
+    "term": "umbonuloid",
+    "definition": "Type of cheilostomate frontal shield, where the calcification in a zooid develops by the growth of a fold of tissue beneath the frontal wall, extending distally from the proximal edge. The calcified shield separates the overlying hypostegal coelom from the ascus and the underlying visceral coelom.",
+    "citation": "",
+    "links": "ascus, hypostegal coelom, visceral coelom",
+    "figures": ""
+  },
+  {
+    "id": 0,
+    "term": "vanna",
+    "definition": "See poster",
+    "citation": "",
+    "links": "poster",
+    "figures": ""
+  },
+  {
+    "id": 0,
+    "term": "vertical wall",
+    "definition": "One of zooidal supporting walls that is entirely or in part at a high angle to the basal and orificial walls, giving depth, length, or both to the zooidal body cavity; can be exterior, interior, or a combination.\nIn gymnolaemates, the lateral and transverse walls. (Boardman & Cheetham, 1983)",
+    "citation": "Boardman & Cheetham, 1983",
+    "links": "",
+    "figures": ""
+  },
+  {
+    "id": 0,
+    "term": "vesicle",
+    "definition": "In fistuliporine cystoporates, blisterlike, boxlike, or less commmonly tubelike element of extrazooidal vesicular tissue bounded by calcified walls and roof; space in vesicle presumably contained no soft tissue. (Boardman & Cheetham, 1983)",
+    "citation": "Boardman & Cheetham, 1983",
+    "links": "",
+    "figures": ""
+  },
+  {
+    "id": 0,
+    "term": "vesicle wall",
+    "definition": "Straight to curved lateral sides of vesicle, generally simple, interior wall; may be compound in a few genera. (Boardman & Cheetham, 1983)",
+    "citation": "Boardman & Cheetham, 1983",
+    "links": "",
+    "figures": ""
+  },
+  {
+    "id": 0,
+    "term": "vesicular tissue",
+    "definition": "In fistuliporine cystoporates, extrazooidal calcareous structures composed of adjacent and superposed vesicles. (Boardman & Cheetham, 1983)",
+    "citation": "Boardman & Cheetham, 1983",
+    "links": "",
+    "figures": ""
+  },
+  {
+    "id": 0,
+    "term": "vestibule",
+    "definition": "Variable space through which the lophophore passes in protruding and retracting.\nIn cryptostomates, the part of the zooecial chamber between aperture and either hemisepta or boundary between exozone and endozone. (Boardman & Cheetham, 1983)",
+    "citation": "Boardman & Cheetham, 1983",
+    "links": "",
+    "figures": ""
+  },
+  {
+    "id": 0,
+    "term": "vibex (Pl. vibices)",
+    "definition": "In erect phidoloporid cheilostomes: surface ridge of skeletal calcification, marking the contacts between kenozooids on the basal surface.",
+    "citation": "",
+    "links": "",
+    "figures": ""
+  },
+  {
+    "id": 0,
+    "term": "vibraculum",
+    "definition": "Heterozooid in Cheilostomata with operculum in form of a long seta slung between condyles (Hayward & Ryland, 1979) or pivoting on a skeletal bar. Transitional to avicularia with setiform mandibles.",
+    "citation": "Hayward & Ryland, 1979",
+    "links": "setiform",
+    "figures": ""
+  },
+  {
+    "id": 0,
+    "term": "vicarious avicularium",
+    "definition": "Avicularium taking the place of an autozooid in the colony; approximately the same size as the autozooid. Vicarious avicularia communicate with adjacent zooids.",
+    "citation": "",
+    "links": "Avicularium, autozooid",
+    "figures": "Chondriovelum, Adeonellopsis, Sinoflustra, Otionellina"
+  },
+  {
+    "id": 0,
+    "term": "visceral coelom",
+    "definition": ".",
+    "citation": "",
+    "links": "",
+    "figures": ""
+  },
+  {
+    "id": 0,
+    "term": "wall",
+    "definition": "Used in a number of ways, for the skeletal and/or organic partition between zooids in a colony, or between the colony and the environment. See basal wall, frontal wall, transverse wall, lateral wall, vertical wall, interior wall, exterior wall, double-walled, free-walled, fixed-wall.",
+    "citation": "",
+    "links": "basal wall, frontal wall, lateral wall, interior wall, exterior wall, free-walled, fixed-wall",
+    "figures": ""
+  },
+  {
+    "id": 0,
+    "term": "window",
+    "definition": "In cheilostomes, an uncalcified part of wall. In living animals, the window is covered with cuticle. See pelmatidium, lunoecium, dietella. Compare foramen, fenestra, lacuna.",
+    "citation": "",
+    "links": "cuticle, pelmatidium, lunoecium, dietella, foramen, fenestra, lacuna",
+    "figures": ""
+  },
+  {
+    "id": 0,
+    "term": "zoarium",
+    "definition": "Used for the skeleton of a colony.",
+    "citation": "",
+    "links": "colony",
+    "figures": ""
+  },
+  {
+    "id": 0,
+    "term": "zooeciule",
+    "definition": "Small zooid with orifice but not all parts of autozooid (Hayward & Ryland, 1998).",
+    "citation": "Hayward & Ryland, 1998",
+    "links": "",
+    "figures": "Hippothoa"
+  },
+  {
+    "id": 0,
+    "term": "zooecium",
+    "definition": "Skeleton of bryozoan zooid.",
+    "citation": "",
+    "links": "",
+    "figures": ""
+  },
+  {
+    "id": 0,
+    "term": "zooid",
+    "definition": "Single bryozoan member (module) of a colony. Often called individual. Various types are distinguished by prefixes. (modified after Hayward & Ryland, 1979)",
+    "citation": "Hayward & Ryland, 1979",
+    "links": "",
+    "figures": ""
+  }
+]

@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/fragment_view"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_margin="8dp"
+    android:padding="8dp"
+    tools:context=".fragments.view.ViewFragment">
+
+    <TextView
+        android:id="@+id/view_term"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/term"
+        android:textColor="@color/secondary"
+        android:textSize="28sp"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        />
+
+    <LinearLayout
+        android:id="@+id/view_layout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        android:paddingTop="4dp"
+        android:paddingLeft="16dp"
+        android:paddingRight="16dp"
+        android:paddingBottom="16dp"
+        android:background="@drawable/rounded_corner"
+        android:orientation="vertical"
+        app:layout_constraintTop_toBottomOf="@+id/view_term"
+        app:layout_constraintEnd_toEndOf="parent">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="8dp"
+            android:layout_marginBottom="4dp"
+            android:textSize="20sp"
+            android:text="@string/definition"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/view_definition"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:lineHeight="28dp"
+            android:textSize="18sp"
+            android:breakStrategy="simple"
+            android:maxWidth="600dp"
+            tools:text="In cryptostomes, a type of stylet with a core which is a well-defined smooth rod of non-laminated calcite. Sheath lamellae usually strongly directed toward colony surface, sheath lamellar bundle wide. Transitional to paurostyle, but usually larger." />
+
+        <TextView
+            android:id="@+id/citation_title_textview"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="16dp"
+            android:layout_marginBottom="4dp"
+            android:textSize="20sp"
+            android:text="@string/citation"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/view_citation"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="18sp"
+            tools:text="Blake 1983" />
+
+        <TextView
+            android:id="@+id/figures_title_textview"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="16dp"
+            android:layout_marginBottom="4dp"
+            android:textSize="20sp"
+            android:text="@string/figures"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/view_figures"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="18sp"
+            tools:text="Adeonellopsis" />
+
+
+        <TextView
+            android:id="@+id/link_title_textview"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="16dp"
+            android:layout_marginBottom="4dp"
+            android:textSize="20sp"
+            android:text="@string/link"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/view_link"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="18sp"
+            android:autoLink="web"
+            android:clickable="true"
+            tools:text="papapap" />
+    </LinearLayout>
+
+    <com.google.android.material.floatingactionbutton.FloatingActionButton
+        android:id="@+id/edit_button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginEnd="24dp"
+        android:layout_marginBottom="24dp"
+        android:clickable="true"
+        android:focusable="true"
+        android:src="@drawable/ic_edit"
+        android:tint="@color/white"
+        app:backgroundTint="@color/secondary"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent" />
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

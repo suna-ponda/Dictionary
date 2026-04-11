@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main_nav"
+    app:startDestination="@id/listFragment">
+
+    <fragment
+        android:id="@+id/listFragment"
+        android:name="tr.com.ponda.gftb.fragments.list.ListFragment"
+        android:label="@string/app_name_long"
+        tools:layout="@layout/fragment_list" >
+        <action
+            android:id="@+id/action_listFragment_to_addFragment"
+            app:destination="@id/addFragment" />
+        <action
+            android:id="@+id/action_listFragment_to_viewFragment"
+            app:destination="@id/viewFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/addFragment"
+        android:name="tr.com.ponda.gftb.fragments.add.AddFragment"
+        android:label="@string/add"
+        tools:layout="@layout/fragment_add" >
+        <action
+            android:id="@+id/action_addFragment_to_listFragment"
+            app:destination="@id/listFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/viewFragment"
+        android:name="tr.com.ponda.gftb.fragments.view.ViewFragment"
+        android:label="@string/view"
+        tools:layout="@layout/fragment_view" >
+        <argument
+            android:name="currentTerm"
+            app:argType="tr.com.ponda.gftb.model.Term" />
+        <action
+            android:id="@+id/action_viewFragment_to_listFragment"
+            app:destination="@id/listFragment" />
+        <action
+            android:id="@+id/action_viewFragment_to_updateFragment"
+            app:destination="@id/updateFragment" />
+        <action
+            android:id="@+id/action_viewFragment_self"
+            app:destination="@id/viewFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/updateFragment"
+        android:name="tr.com.ponda.gftb.fragments.update.UpdateFragment"
+        android:label="@string/update"
+        tools:layout="@layout/fragment_update">
+        <action
+            android:id="@+id/action_updateFragment_to_listFragment"
+            app:destination="@id/listFragment" />
+        <argument
+            android:name="currentTerm"
+            app:argType="tr.com.ponda.gftb.model.Term" />
+    </fragment>
+</navigation>
