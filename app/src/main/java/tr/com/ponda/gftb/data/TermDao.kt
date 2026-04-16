@@ -28,6 +28,6 @@ interface TermDao {
     @Query("SELECT * FROM term_table WHERE term LIKE :searchQuery ORDER BY term ASC")
     fun searchDatabase(searchQuery:String) : LiveData<List<Term>>
 
-    @Query("SELECT * FROM term_table WHERE term = :name")
+    @Query("SELECT * FROM term_table WHERE term = :name COLLATE NOCASE")
     fun getTermByName(name: String): LiveData<Term?>
 }

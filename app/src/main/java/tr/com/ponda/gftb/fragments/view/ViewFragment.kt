@@ -45,7 +45,7 @@ class ViewFragment : Fragment() {
 
             for (term in allTerms) {
                 // Do not link the term to itself
-                if (term.term == args.currentTerm.term) {
+                if (term.term.equals(args.currentTerm.term, ignoreCase = true)) {
                     continue
                 }
 
